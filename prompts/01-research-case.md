@@ -10,8 +10,13 @@
 ## Trước khi vào prompt — 5 câu hỏi bạn tự trả lời
 
 Mục tiêu: trước khi nhờ AI tìm, bạn phải biết **case nào** và **cần tìm cụ thể những gì**. Nếu không, AI sẽ trả về 1 bài tóm tắt chung chung — không có số cụ thể, không có nguồn rõ ràng.
+StackOverflow 
+User / activity: giảm 78% so với năm 2014 
+
+
 
 1. **Case bạn chọn** là gì? (1 sản phẩm hoặc 1 công ty cụ thể — không chung chung như "ngành ed-tech".)
+
 2. **Big tech AI** nào ra tính năng tương tự gây ảnh hưởng? (ChatGPT / Claude / Gemini / GitHub Copilot / Microsoft Copilot / NotebookLM / ...)
 3. **Mốc thời gian quan trọng nhất** với phân tích của bạn là gì? (Khi big tech AI ra tính năng / khi case phản ứng / hiện tại?)
 4. **Số liệu nào AI có thể bịa nhất**? (Giá cổ phiếu chính xác đến cent, ngày tháng cụ thể, tỷ lệ phần trăm chính xác — đây là nơi AI dễ "vẽ ra" con số nghe có vẻ đúng.)
@@ -28,8 +33,8 @@ Bạn là researcher chuyên về business cases trong ngành công nghệ.
 Dựa trên BỐI CẢNH ở trên (mã học viên + case tôi chọn + big tech AI tạo áp lực),
 giúp tôi tìm số liệu cụ thể về case này để phân tích vì sao bị ảnh hưởng nặng sau khi big tech AI ra tính năng tương tự.
 
-Case của tôi: [tên sản phẩm / công ty]
-Big tech AI tạo áp lực: [ChatGPT / Claude / Gemini / GitHub Copilot / ...]
+Case của tôi: Stack Overflow 
+Big tech AI tạo áp lực: ChatGPT và Copilot
 
 Tôi cần 4 nhóm số liệu cụ thể, mỗi số liệu có URL nguồn và ngày tháng.
 
